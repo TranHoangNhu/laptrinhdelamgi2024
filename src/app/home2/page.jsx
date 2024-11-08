@@ -10,7 +10,7 @@ const page = () => {
     return (
         <div>
             <HeroBanner2
-                bgImg="/assets/images/slider/hero-bg2.jpg"
+                bgImg="/assets/images/slider/Hero-bg2.webp"
                 title="Start Achieving <br>Your Short Term <span>SEO Goals</span>"
                 content="Distinctively supply exceptional services after uniquely integrate alternative markets rather emerging initiatives."
                 btnName="Get Started"
